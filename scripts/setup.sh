@@ -21,3 +21,4 @@ echo "LibreUIUX-Claude-Code"
 # clarify the control flow
 # clarify the control flow
 # avoid re-reading the config on every call
+# guard against empty input
